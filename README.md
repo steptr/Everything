@@ -8,7 +8,7 @@ It is distributed in binary form only under the MIT license from [voidtools.com]
 
 I have translated "Everything" and its setup program since version 1.2, that is, the first localized version.
 
-If you have comments and corrections about my translations please create an [issue tracking entry](../issues).
+If you have comments and corrections about my translations please create an [issue tracking entry](../../issues).
 
 ---
 
@@ -21,4 +21,4 @@ Viene distribuita solo in forma binaria sotto licenza MIT dal sito [voidtools.co
 
 Traduco "Everything" e il suo programma d'installazione sin dalla versione 1.2, cioè la prima versione traducibile.
 
-Se volete fare commenti o indicare correzioni della mia traduzione create una  [richiesta di controllo](../issues).
+Se volete fare commenti o indicare correzioni della mia traduzione create una  [richiesta di controllo](../../issues).
