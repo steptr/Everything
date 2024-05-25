@@ -1,5 +1,5 @@
-__This translation project is on hold, and it's looking for new maintainers. See #1.__  
-__Questo progetto di traduzione è fermo in cerca di nuovi manutentori. Vedi #1.__
+__This translation project is on hold, and it's looking for new maintainers. [Apply here](https://github.com/steptr/Everything/issues/1)__  
+__Questo progetto di traduzione è fermo in cerca di nuovi manutentori. [Per offrirsi](https://github.com/steptr/Everything/issues/1)__
 
 ---
 
