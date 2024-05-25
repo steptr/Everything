@@ -1,3 +1,8 @@
+__This translation project is on hold, and it's looking for new maintainers. See #1.__  
+__Questo progetto di traduzione è fermo in cerca di nuovi manutentori. Vedi #1.__
+
+---
+
 *SCROLL DOWN THE PAGE FOR ITALIAN TEXT*
 
 This page is about the translation of "Everything" into Italian.
